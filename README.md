@@ -1,4 +1,4 @@
-# Projet SQL - Évaluation Intermédiaire
+# Projet SQL - Ventes Analytics
 
 ## 📝 Description
 
